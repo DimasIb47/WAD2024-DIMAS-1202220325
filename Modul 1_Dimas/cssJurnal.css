@@ -1,0 +1,18 @@
+body{
+    font-family: 'bahnschrift';
+}
+
+.judul{
+    text-align: center;
+    background-color: tomato;
+    color: white;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+}
+
+img {
+        width:  480px;
+      }
+
+
